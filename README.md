@@ -9,5 +9,6 @@ in quotes on their site `https://www.internetingishard.com/`
 4. Sandbox for my git
 ## In this repo
 ### Introduction
+[Introduction] (https://github.com/mr-guest/interneting-is-hard/blob/main/introduction.md)
 ### Basic Webpages
 ### More soon
